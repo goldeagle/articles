@@ -1,0 +1,6 @@
+[book]
+authors = ["Bison 'goldeagle' Fan"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "在树莓派上（Based On Raspberry Pi）"
